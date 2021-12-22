@@ -1,0 +1,58 @@
+{
+	"compiler": {
+		"version": "0.7.0+commit.9e61f92b"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "multiplyCalculator",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"exercise-assignment.sol": "lernFunction"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"exercise-assignment.sol": {
+			"keccak256": "0x7ff1b3c3693e6d1cbe775d76516b636460abc75c5ac0c730b4d16151f12e53c8",
+			"urls": [
+				"bzz-raw://5056383abb57f2d68ce3a57695b17ee0038bca07f557c066f6c732e9977a6864",
+				"dweb:/ipfs/QmVp5AUutJvxDXXA94HneacRFKcrXJdyCWZsYAVBQeVpT7"
+			]
+		}
+	},
+	"version": 1
+}

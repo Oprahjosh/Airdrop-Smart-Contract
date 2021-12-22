@@ -1,0 +1,69 @@
+{
+	"compiler": {
+		"version": "0.7.0+commit.9e61f92b"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "a",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "b",
+						"type": "uint256"
+					}
+				],
+				"name": "multiplyCalculator",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"exercise-assignment.sol": "learnFunction"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"exercise-assignment.sol": {
+			"keccak256": "0x6601557cca8bfac982c190d30b8b4af12c009eaed5de76d2d232a007d51d504a",
+			"urls": [
+				"bzz-raw://c3faf0c1a1aa6a7d3935917be96c08c6a1df8c69ddab777eb0031c70f4a8b678",
+				"dweb:/ipfs/QmTidJa4pmYUdVs3HEF7spss3fusLqchohniBbUdqfp4eD"
+			]
+		}
+	},
+	"version": 1
+}
